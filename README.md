@@ -1,0 +1,4 @@
+myopensiftapp
+=============
+
+sample openshift app
